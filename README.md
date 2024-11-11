@@ -98,4 +98,4 @@ else:
 
 
 ### RESULT:
-Thus, the python code for the time series analysis and decomposition is successfully implemented.
+Thus, the python code for the time series analysis and decomposition on tesla stock prediction is successfully implemented.
